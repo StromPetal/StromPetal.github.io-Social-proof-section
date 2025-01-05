@@ -3,3 +3,17 @@ body{
     margin-left: 10em;
     margin-top: 5em;
 }
+
+.rate1{
+    background-color: pink;
+    width: 10em;
+    height: 2em;
+    border-radius: 5px;
+    display: flex;
+    justify-content:center;
+}
+/* 
+.text1{
+    position: absolute;
+    bottom: 1px;
+} */
